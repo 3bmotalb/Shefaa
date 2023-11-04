@@ -1,0 +1,1192 @@
+{
+  "governorates": [
+
+    {
+      "id": 1,
+      "name_ar": "القاهرة",
+      "name_en": "Cairo"
+    },
+    {
+      "id": 2,
+      "name_ar": "القليوبية",
+      "name_en": "Qalyubia"
+    },
+    {
+      "id": 3,
+      "name_ar": "الغربية",
+      "name_en": "Gharbia"
+    },
+    {
+      "id": 4,
+      "name_ar": "الدقهلية",
+      "name_en": "El-Dakahlia"
+    },
+    {
+      "id":5,
+      "name_ar": "الاسماعيلية",
+      "name_en": "El-Ismailia"
+    },
+    {
+      "id": 6,
+      "name_ar": "الاسكندرية",
+      "name_en": "Alexandria"
+    },
+    {
+      "id": 7,
+      "name_ar": "الشرقية",
+      "name_en": "El-Sharqia"
+    },
+    {
+      "id": 8,
+      "name_ar": "الوادى الجديد",
+      "name_en": "ELwady Elgdid"
+    },
+    {
+      "id":9,
+      "name_ar": "اسوان",
+      "name_en": "Aswan"
+    },
+    {
+      "id": 10,
+      "name_ar": "اسيوط",
+      "name_en": "Assiut"
+    },
+    {
+      "id": 11,
+      "name_ar": "الاقصر",
+      "name_en": "Luxor"
+    },
+    {
+      "id": 12,
+      "name_ar": "البحر الاحمر",
+      "name_en": "ELbhr ELahmer"
+    },
+    {
+      "id": 13,
+      "name_ar": "البحيرة",
+      "name_en": "El-Beheira"
+    },
+    {
+      "id": 14,
+      "name_ar": "بنى سويف",
+      "name_en": "Beni Suef"
+    },
+    {
+      "id": 15,
+      "name_ar": "بورسعيد",
+      "name_en": "Portsaid"
+    },
+    {
+      "id": 16,
+      "name_ar": "شمال سيناء",
+      "name_en": "Shmal syina"
+    },
+    {
+      "id": 17,
+      "name_ar": "الجيزة",
+      "name_en": "Giza"
+    },
+    {
+      "id": 18,
+      "name_ar": "دمياط",
+      "name_en": "Damietta"
+    },
+    {
+      "id": 19,
+      "name_ar": "سوهاج",
+      "name_en": "Sohag"
+    },
+    {
+      "id": 20,
+      "name_ar": "السويس",
+      "name_en": "Suez"
+    },
+    {
+      "id": 21,
+      "name_ar": "جنوب سيناء",
+      "name_en": "North Syina"
+    },
+    {
+      "id":22,
+      "name_ar": "الفيوم",
+      "name_en": "Fayoum"
+    },
+    {
+      "id":23,
+      "name_ar": "قنا",
+      "name_en": "Qena"
+    },
+    {
+      "id": 24,
+      "name_ar": "كفر الشيخ",
+      "name_en": "Kafr El sheikh"
+    },
+    {
+      "id": 25,
+      "name_ar": "مطروح",
+      "name_en": "Matrouh"
+    },
+    {
+      "id": 26,
+      "name_ar": "المنوفية",
+      "name_en": "Menoufia"
+    },
+    {
+      "id":27,
+      "name_ar": "المنيا",
+      "name_en": "El-Minia"
+    }
+  ],
+  "cities": [
+    {
+      "id": 1,
+      "gov_id": 1,
+      "name_ar": "حي الزيتون",
+      "name_en": "Al-Zaytoun "
+    },
+    {
+      "id": 2,
+      "gov_id": 1,
+      "name_ar": "حي الزاوية الحمراء ",
+      "name_en": "Alzaawia Alhamra"
+    },
+    {
+      "id": 3,
+      "gov_id": 1,
+      "name_ar": "حدائق القبة",
+      "name_en": "Hadayek El-Kobba"
+    },
+    {
+      "id": 4,
+      "gov_id": 1,
+      "name_ar": "الشرابية",
+      "name_en": "Alsharabia"
+    },
+    {
+      "id": 5,
+      "gov_id": 1,
+      "name_ar": "الساحل",
+      "name_en": "Alsaahil"
+    },
+    {
+      "id": 6,
+      "gov_id": 1,
+      "name_ar": "شبرا",
+      "name_en": "Shorouk"
+    },
+    {
+      "id": 7,
+      "gov_id": 1,
+      "name_ar": "روض الفرج",
+      "name_en": "Rawd Alfaraj"
+    },
+    {
+      "id": 8,
+      "gov_id": 1,
+      "name_ar": "الأميرية",
+      "name_en": "Al-amiria"
+    },
+    {
+      "id": 9,
+      "gov_id": 1,
+      "name_ar": "حي السلام أول",
+      "name_en": "hayu alsalam awal"
+    },
+    {
+      "id": 10,
+      "gov_id": 1,
+      "name_ar": "حي السلام ثان",
+      "name_en": "hayu alsalam thany"
+    },
+    {
+      "id": 11,
+      "gov_id": 1,
+      "name_ar": " حي المرج",
+      "name_en": "El-Marg"
+    },
+    {
+      "id": 12,
+      "gov_id": 1,
+      "name_ar": " المطرية",
+      "name_en": "El-Matareya"
+    },
+    {
+      "id": 13,
+      "gov_id": 1,
+      "name_ar": "عين شمس",
+      "name_en": "Ain Shams"
+    },
+    {
+      "id": 14,
+      "gov_id": 1,
+      "name_ar": "النزهة",
+      "name_en": "Alnuzha"
+    },
+    {
+      "id": 15,
+      "gov_id": 1,
+      "name_ar": " مصر الجديده",
+      "name_en": "Masr aljadid"
+    },
+    {
+      "id": 16,
+      "gov_id": 1,
+      "name_ar": " مدينة نصر",
+      "name_en": "Nasr City"
+    },
+    {
+      "id": 17,
+      "gov_id": 1,
+      "name_ar": "هيليوبلس",
+      "name_en": "Heliopolis"
+    },
+    {
+      "id": 18,
+      "gov_id": 1,
+      "name_ar": " المعادى",
+      "name_en": "El-Maadi"
+    },
+    {
+      "id": 19,
+      "gov_id": 1,
+      "name_ar": "حدائق القبة",
+      "name_en": "Hadayek El-Kobba"
+    },
+    {
+      "id": 20,
+      "gov_id": 1,
+      "name_ar": " مدينة العبور",
+      "name_en": "El-Obour City"
+    },
+    {
+      "id": 21,
+      "gov_id": 1,
+      "name_ar": " المنيل",
+      "name_en": "El-Manyal"
+    },
+    {
+      "id": 22,
+      "gov_id": 1,
+      "name_ar": " شبرا",
+      "name_en": "Shoubra"
+    },
+    {
+      "id": 23,
+      "gov_id": 1,
+      "name_ar": "وسط البلد",
+      "name_en": "West El-Balad"
+    },
+    {
+      "id": 24,
+      "gov_id": 1,
+      "name_ar": "العاشر من رمضان",
+      "name_en": "10th of Ramadan"
+    },
+    {
+      "id": 25,
+      "gov_id": 1,
+      "name_ar": "مدينة بدر",
+      "name_en": "Badr City"
+    },
+    {
+      "id": 26,
+      "gov_id": 1,
+      "name_ar": " بولاق",
+      "name_en": "Boulaq"
+    },
+    {
+      "id": 27,
+      "gov_id": 1,
+      "name_ar": "دار السلام",
+      "name_en": "Dar El-Salam"
+    },
+    {
+      "id": 28,
+      "gov_id": 1,
+      "name_ar": " العباسية",
+      "name_en": "El-Abbasia"
+    },
+    {
+      "id": 29,
+      "gov_id": 1,
+      "name_ar": "القطامية",
+      "name_en": "El-Kattameya"
+    },
+    {
+      "id": 30,
+      "gov_id": 1,
+      "name_ar": " المقطم",
+      "name_en": "El-Mokattam"
+    },
+    {
+      "id": 31,
+      "gov_id": 1,
+      "name_ar": " الرحاب",
+      "name_en": "El-Rehab"
+    },
+    {
+      "id": 32,
+      "gov_id": 1,
+      "name_ar": "السيدة زينب",
+      "name_en": "El-Sayeda Zainab"
+    },
+    {
+      "id": 33,
+      "gov_id": 1,
+      "name_ar": " الشروق",
+      "name_en": "El-Shorouk"
+    },
+    {
+      "id": 34,
+      "gov_id": 1,
+      "name_ar": " الزمالك",
+      "name_en": "El-Zamalek"
+    },
+    {
+      "id": 35,
+      "gov_id": 1,
+      "name_ar": "حلوان",
+      "name_en": "Helwan"
+    },
+    {
+      "id": 36,
+      "gov_id": 1,
+      "name_ar": " المعادى",
+      "name_en": "El Maadi"
+    },
+    {
+      "id": 37,
+      "gov_id": 1,
+      "name_ar": "مدينتى",
+      "name_en": "Madinaty"
+    },
+    {
+      "id": 38,
+      "gov_id": 2,
+      "name_ar": " شبرا الخيمة",
+      "name_en": "Shoubra El-Kheima"
+    },
+    {
+      "id": 39,
+      "gov_id": 2,
+      "name_ar": " حي المرج",
+      "name_en": "El-Marg"
+    },
+    {
+      "id": 40,
+      "gov_id": 2,
+      "name_ar": " بنها",
+      "name_en": "Banha"
+    },
+    {
+      "id": 41,
+      "gov_id": 2,
+      "name_ar": " قليوب",
+      "name_en": "Qalyoub"
+    },
+    {
+      "id": 42,
+      "gov_id": 2,
+      "name_ar": " كفر شُكر",
+      "name_en": "Kafr Shokr"
+    },
+    {
+      "id": 43,
+      "gov_id": 2,
+      "name_ar": "طُوخ",
+      "name_en": "Tokh"
+    },
+    {
+      "id": 44,
+      "gov_id": 2,
+      "name_ar": " قَها",
+      "name_en": "Kha"
+    },
+    {
+      "id": 45,
+      "gov_id": 3,
+      "name_ar": " المحلة الكبرى",
+      "name_en": "Mahalla"
+    },
+    {
+      "id": 46,
+      "gov_id": 3,
+      "name_ar": " السنطة",
+      "name_en": "Santa"
+    },
+    {
+      "id": 47,
+      "gov_id": 3,
+      "name_ar": "كفر الزيات",
+      "name_en": "Kafr El Zayat"
+    },
+    {
+      "id": 48,
+      "gov_id": 3,
+      "name_ar": "بسيون",
+      "name_en": "Basioun"
+    },
+    {
+      "id": 49,
+      "gov_id": 3,
+      "name_ar": "طنطا",
+      "name_en": "Tanta"
+    },
+    {
+      "id": 50,
+      "gov_id": 3,
+      "name_ar": " زفتى",
+      "name_en": "Zefta"
+    },
+    {
+      "id": 51,
+      "gov_id": 3,
+      "name_ar": " سمنود",
+      "name_en": "Samannoud"
+    },
+    {
+      "id": 52,
+      "gov_id": 4,
+      "name_ar": " اجا",
+      "name_en": "Aga"
+    },
+    {
+      "id": 53,
+      "gov_id": 4,
+      "name_ar": " بلقاس",
+      "name_en": "Belkas"
+    },
+    {
+      "id": 54,
+      "gov_id": 4,
+      "name_ar": " دكرنس",
+      "name_en": "Dekernes"
+    },
+    {
+      "id": 55,
+      "gov_id": 4,
+      "name_ar": " شربين",
+      "name_en": "Shirbin"
+    },
+    {
+      "id": 56,
+      "gov_id": 4,
+      "name_ar": " السمبلوين",
+      "name_en": "El Senbellawein"
+    },
+    {
+      "id": 57,
+      "gov_id": 4,
+      "name_ar": " المنصورة",
+      "name_en": "El-Mansoura"
+    },
+    {
+      "id": 58,
+      "gov_id": 4,
+      "name_ar": " ميت غمر",
+      "name_en": "Mit Ghamr"
+    },
+    {
+      "id": 59,
+      "gov_id": 5,
+      "name_ar": " التل الكبير",
+      "name_en": "El-tl alkaper"
+    },
+    {
+      "id": 60,
+      "gov_id": 5,
+      "name_ar": " ابو صوير",
+      "name_en": "Abo soyer"
+    },
+    {
+      "id": 61,
+      "gov_id": 5,
+      "name_ar": "القصاصين",
+      "name_en": "El-ksasin"
+    },
+    {
+      "id": 62,
+      "gov_id": 6,
+      "name_ar": " محطة الرمل",
+      "name_en": "Mahatet El-Raml"
+    },
+    {
+      "id": 63,
+      "gov_id": 6,
+      "name_ar": "رشدى",
+      "name_en": "Roshdy"
+    },
+    {
+      "id": 64,
+      "gov_id": 6,
+      "name_ar": " سموحة",
+      "name_en": "Smouha"
+    },
+    {
+      "id": 65,
+      "gov_id": 6,
+      "name_ar": " سبورتنج",
+      "name_en": "Sporting"
+    },
+    {
+      "id": 66,
+      "gov_id": 6,
+      "name_ar": " سيدى جابر",
+      "name_en": "Sidy Gaber"
+    },
+    {
+      "id": 67,
+      "gov_id": 6,
+      "name_ar": "لوران",
+      "name_en": "Loran"
+    },
+    {
+      "id": 68,
+      "gov_id": 6,
+      "name_ar": " كامب شيزار",
+      "name_en": "Camp Caesar"
+    },
+    {
+      "id": 69,
+      "gov_id": 6,
+      "name_ar": " الابراهيمية",
+      "name_en": "El-Ibrahimia"
+    },
+    {
+      "id": 70,
+      "gov_id": 6,
+      "name_ar": " جانكليز",
+      "name_en": "Janaklees"
+    },
+    {
+      "id": 71,
+      "gov_id": 6,
+      "name_ar": " ابو قير",
+      "name_en": "Abou Keir"
+    },
+    {
+      "id": 72,
+      "gov_id": 6,
+      "name_ar": "بحرى",
+      "name_en": "Bahary"
+    },
+    {
+      "id": 73,
+      "gov_id": 6,
+      "name_ar": " بكوس",
+      "name_en": "Bakos"
+    },
+    {
+      "id": 74,
+      "gov_id": 6,
+      "name_ar": " بولكلى",
+      "name_en": "Bulkly"
+    },
+    {
+      "id": 75,
+      "gov_id": 6,
+      "name_ar": " كليوبترا",
+      "name_en": "Cleopatra"
+    },
+    {
+      "id": 76,
+      "gov_id":6,
+      "name_ar": " العجمى",
+      "name_en": "El-Agamy"
+    },
+    {
+      "id": 77,
+      "gov_id": 6,
+      "name_ar": " العمرية",
+      "name_en": "El-Amreya"
+    },
+    {
+      "id": 78,
+      "gov_id": 6,
+      "name_ar": " العصافرة",
+      "name_en": "El-Asafra"
+    },
+    {
+      "id": 79,
+      "gov_id": 6,
+      "name_ar": "الاظاريطه",
+      "name_en": "El-Azarita"
+    },
+    {
+      "id": 80,
+      "gov_id": 6,
+      "name_ar": "المندره",
+      "name_en": "El-Mandara"
+    },
+    {
+      "id": 81,
+      "gov_id": 6,
+      "name_ar": "المنشية",
+      "name_en": "El-Mansheyah"
+    },
+    {
+      "id": 82,
+      "gov_id": 6,
+      "name_ar": " المنتزه",
+      "name_en": "El-Montazah"
+    },
+    {
+      "id": 83,
+      "gov_id": 6,
+      "name_ar": " السيوف",
+      "name_en": "El-Seyouf"
+    },
+    {
+      "id": 84,
+      "gov_id": 6,
+      "name_ar": " الشاطبى",
+      "name_en": "El-Shatby"
+    },
+    {
+      "id": 85,
+      "gov_id": 6,
+      "name_ar": " الورديان",
+      "name_en": "El-Werdeyan"
+    },
+    {
+      "id": 86,
+      "gov_id": 6,
+      "name_ar": " فليمنج",
+      "name_en": "Fleming"
+    },
+    {
+      "id": 87,
+      "gov_id": 6,
+      "name_ar": " شارع فؤاد",
+      "name_en": "Fouad Street"
+    },
+    {
+      "id": 88,
+      "gov_id": 6,
+      "name_ar": " جليم",
+      "name_en": "Glym"
+    },
+    {
+      "id": 89,
+      "gov_id": 6,
+      "name_ar": " كفر عبده",
+      "name_en": "Kafr Abdouh"
+    },
+    {
+      "id": 90,
+      "gov_id": 6,
+      "name_ar": "كينج مريوط",
+      "name_en": "King Mariout"
+    },
+    {
+      "id": 91,
+      "gov_id": 6,
+      "name_ar": " ميامى",
+      "name_en": "Miamy"
+    },
+    {
+      "id": 92,
+      "gov_id": 6,
+      "name_ar": " محرم بيك",
+      "name_en": "Moharam Bek"
+    },
+    {
+      "id": 93,
+      "gov_id": 6,
+      "name_ar": " مصطفى كامل",
+      "name_en": "Moustafa Kamel"
+    },
+    {
+      "id": 94,
+      "gov_id": 6,
+      "name_ar": " صبا باشا",
+      "name_en": "Saba Basha"
+    },
+    {
+      "id": 95,
+      "gov_id": 6,
+      "name_ar": " سان استيفانو",
+      "name_en": "San Stefano"
+    },
+    {
+      "id": 96,
+      "gov_id": 6,
+      "name_ar": " سيدى بشر",
+      "name_en": "Sidy Bishr"
+    },
+    {
+      "id": 97,
+      "gov_id": 6,
+      "name_ar": " ستانلى",
+      "name_en": "Stanley"
+    },
+    {
+      "id": 98,
+      "gov_id": 6,
+      "name_ar": "فيكتوريا",
+      "name_en": "Victoria"
+    },
+    {
+      "id": 99,
+      "gov_id": 6,
+      "name_ar": " زيزينيا",
+      "name_en": "Zizenia"
+    },
+    {
+      "id": 100,
+      "gov_id": 7,
+      "name_ar": "ابو حماد",
+      "name_en": "Abu Hammad"
+    },
+    {
+      "id": 101,
+      "gov_id": 7,
+      "name_ar": " بلبيس",
+      "name_en": "Belbes"
+    },
+    {
+      "id": 102,
+      "gov_id": 7,
+      "name_ar": " الزقازيق",
+      "name_en": "El-Zagazig"
+    },
+    {
+      "id": 103,
+      "gov_id": 7,
+      "name_ar": " منيا القمح",
+      "name_en": "Menya El-Kamh"
+    },
+    {
+      "id": 104,
+      "gov_id": 7,
+      "name_ar": " فقوس",
+      "name_en": "Fakous"
+    },
+    {
+      "id": 105,
+      "gov_id": 8,
+      "name_ar": " الداخلة",
+      "name_en": " Dakhla"
+    },
+    {
+      "id": 106,
+      "gov_id": 8,
+      "name_ar": " الخارجة",
+      "name_en": "Kharga"
+    },
+    {
+      "id": 107,
+      "gov_id": 8,
+      "name_ar": " الفرافرة",
+      "name_en": "Farafra"
+    },
+    {
+      "id": 108,
+      "gov_id": 8,
+      "name_ar": " مركز باريس",
+      "name_en": "Paris center"
+    },
+    {
+      "id": 109,
+      "gov_id": 9,
+      "name_ar": " اسوان",
+      "name_en": "Aswan"
+    },
+    {
+      "id": 110,
+      "gov_id": 9,
+      "name_ar": " ادفو",
+      "name_en": "Edfu"
+    },
+    {
+      "id": 111,
+      "gov_id": 9,
+      "name_ar": " كوم امبو",
+      "name_en": "Kom Ombo"
+    },
+    {
+      "id": 112,
+      "gov_id": 9,
+      "name_ar": " دراو",
+      "name_en": "Deraw"
+    },
+    {
+      "id": 113,
+      "gov_id": 9,
+      "name_ar": " نصر النوبة",
+      "name_en": "EL-noba"
+    },
+    {
+      "id": 114,
+      "gov_id": 10,
+      "name_ar": " اسيوط",
+      "name_en": "Assiut city"
+    },
+    {
+      "id": 115,
+      "gov_id": 10,
+      "name_ar": " ديروط",
+      "name_en": "Dayrout"
+    },
+    {
+      "id": 116,
+      "gov_id": 10,
+      "name_ar": " القوصية",
+      "name_en": "Qusiyah"
+    },
+    {
+      "id": 117,
+      "gov_id": 10,
+      "name_ar": " ابنوب",
+      "name_en": "Abnub"
+    },
+    {
+      "id": 118,
+      "gov_id": 10,
+      "name_ar": " منفلوط",
+      "name_en": "Manfalut"
+    },
+    {
+      "id": 119,
+      "gov_id": 11,
+      "name_ar": " الاقصر",
+      "name_en": "Luxor City"
+    },
+    {
+      "id": 120,
+      "gov_id": 11,
+      "name_ar": " اسنا",
+      "name_en": "Esna"
+    },
+    {
+      "id": 121,
+      "gov_id": 12,
+      "name_ar": " الغردقة",
+      "name_en": "Hurghada"
+    },
+    {
+      "id": 122,
+      "gov_id": 12,
+      "name_ar": " مرسى علم",
+      "name_en": "Marsa Alam"
+    },
+    {
+      "id": 123,
+      "gov_id": 12,
+      "name_ar": " راس غارب",
+      "name_en": "Ras Ghareb"
+    },
+    {
+      "id": 124,
+      "gov_id": 12,
+      "name_ar": " حلايب",
+      "name_en": "Halayeb"
+    },
+    {
+      "id": 125,
+      "gov_id": 12,
+      "name_ar": " الشلاتين",
+      "name_en": "Shalateen"
+    },
+    {
+      "id": 126,
+      "gov_id": 13,
+      "name_ar": " رشيد",
+      "name_en": "Rashid"
+    },
+    {
+      "id": 127,
+      "gov_id": 13,
+      "name_ar": " شبراخيت",
+      "name_en": "Shabrakhit"
+    },
+    {
+      "id": 128,
+      "gov_id": 13,
+      "name_ar": " ايتاى البارود",
+      "name_en": "aytaa albarud"
+    },
+    {
+      "id": 129,
+      "gov_id": 13,
+      "name_ar": " ابو حمص",
+      "name_en": "Abu Hummus"
+    },
+    {
+      "id": 130,
+      "gov_id": 13,
+      "name_ar": " حوش عيسى",
+      "name_en": "Hosh Issa"
+    },
+    {
+      "id": 131,
+      "gov_id": 13,
+      "name_ar": " كفر الدوار",
+      "name_en": "Kafr Al-Dawwar"
+    },
+    {
+      "id": 132,
+      "gov_id": 13,
+      "name_ar": " كوم حمادة",
+      "name_en": "Kom Hamada"
+    },
+    {
+      "id": 133,
+      "gov_id": 13,
+      "name_ar": " دمنهور",
+      "name_en": "Damanhour"
+    },
+    {
+      "id": 134,
+      "gov_id": 13,
+      "name_ar": " المحمودية",
+      "name_en": "Mahmoudiyah"
+    },
+    {
+      "id": 135,
+      "gov_id": 14,
+      "name_ar": " بنى سويف",
+      "name_en": "Bani Sweif"
+    },
+    {
+      "id": 136,
+      "gov_id": 14,
+      "name_ar": " اهناسيا",
+      "name_en": "ahnasia"
+    },
+    {
+      "id": 137,
+      "gov_id": 14,
+      "name_ar": " ناصر",
+      "name_en": "nasir"
+    },
+    {
+      "id": 138,
+      "gov_id": 14,
+      "name_ar": " بنى سويف الجديدة",
+      "name_en": "New Beni Suef"
+    },
+    {
+      "id": 139,
+      "gov_id": 15,
+      "name_ar": " حى الشرق",
+      "name_en": "Al Sharq"
+    },
+    {
+      "id": 140,
+      "gov_id": 15,
+      "name_ar": " الجنوب",
+      "name_en": "aljanub"
+    },
+    {
+      "id": 141,
+      "gov_id":15,
+      "name_ar": " بور فؤاد",
+      "name_en": "Port Fouad"
+    },
+    {
+      "id": 142,
+      "gov_id": 15,
+      "name_ar": " الضواحى",
+      "name_en": "aldawahY"
+    },
+    {
+      "id": 143,
+      "gov_id": 15,
+      "name_ar": " المناخ",
+      "name_en": "almunakh"
+    },
+    {
+      "id": 144,
+      "gov_id": 16,
+      "name_ar": " رفح",
+      "name_en": "Rafah"
+    },
+    {
+      "id": 145,
+      "gov_id": 16,
+      "name_ar": " بئر العبد",
+      "name_en": "Bir al-Abed"
+    },
+    {
+      "id": 146,
+      "gov_id": 16,
+      "name_ar": " الشيخ زويد",
+      "name_en": "Sheikh Zuweid"
+    },
+    {
+      "id": 147,
+      "gov_id": 16,
+      "name_ar": " العريش",
+      "name_en": "Arish"
+    },
+    {
+      "id": 148,
+      "gov_id": 16,
+      "name_ar": " الحسنة",
+      "name_en": "alhasana"
+    },
+    {
+      "id": 149,
+      "gov_id": 17,
+      "name_ar": " الدقى",
+      "name_en": "Dokki"
+    },
+    {
+      "id": 150,
+      "gov_id": 17,
+      "name_ar": " المهندسين",
+      "name_en": "almuhandisin"
+    },
+    {
+      "id": 151,
+      "gov_id": 17,
+      "name_ar": " اكتوبر 6",
+      "name_en": "October 6"
+    },
+    {
+      "id": 152,
+      "gov_id": 17,
+      "name_ar": " الهرم",
+      "name_en": "EL-hrm"
+    },
+    {
+      "id": 153,
+      "gov_id": 17,
+      "name_ar": " فيصل",
+      "name_en": "fisal"
+    },
+    {
+      "id": 154,
+      "gov_id": 17,
+      "name_ar": " الشيخ زايد",
+      "name_en": "sheikh Zayed"
+    },
+    {
+      "id": 155,
+      "gov_id": 17,
+      "name_ar": " حدائق الاهرام",
+      "name_en": "hadayiq alahram"
+    },
+    {
+      "id": 156,
+      "gov_id": 17,
+      "name_ar": " العجوزه",
+      "name_en": "aleajuzuh"
+    },
+    {
+      "id": 157,
+      "gov_id": 17,
+      "name_ar": " بولاق الدكرور",
+      "name_en": "Bulaq Dakror"
+    },
+    {
+      "id": 158,
+      "gov_id": 17,
+      "name_ar": " امبابة",
+      "name_en": "Imbaba"
+    },
+    {
+      "id": 159,
+      "gov_id": 17,
+      "name_ar": " العياط",
+      "name_en": "ayat"
+    },
+    {
+      "id": 160,
+      "gov_id": 18,
+      "name_ar": " دمياط",
+      "name_en": "Damietta"
+    },
+    {
+      "id": 161,
+      "gov_id": 19,
+      "name_ar": " سوهاج",
+      "name_en": "suhaj"
+    },
+    {
+      "id": 162,
+      "gov_id": 20,
+      "name_ar": " السويس",
+      "name_en": "Suez City"
+    },
+    {
+      "id": 163,
+      "gov_id": 21,
+      "name_ar": " شرم الشيخ",
+      "name_en": "Sharm El Sheikh City"
+    },
+    {
+      "id": 164,
+      "gov_id": 22,
+      "name_ar": " الفيوم",
+      "name_en": "El-Fayoum city"
+    },
+    {
+      "id": 165,
+      "gov_id": 22,
+      "name_ar": " ابشواى",
+      "name_en": "Ibsheway"
+    },
+    {
+      "id": 166,
+      "gov_id": 23,
+      "name_ar": " مركز قنا",
+      "name_en": "Qena City"
+    },
+    {
+      "id": 167,
+      "gov_id": 24,
+      "name_ar": " مركز كفر الشيخ",
+      "name_en": "Kafr El sheikh City"
+    },
+    {
+      "id": 168,
+      "gov_id": 25,
+      "name_ar": " مرسى مطروح",
+      "name_en": "Marsa Matrouh"
+    },
+    {
+      "id": 169,
+      "gov_id": 26,
+      "name_ar": " اشمون",
+      "name_en": "Ashmun"
+    },
+    {
+      "id": 170,
+      "gov_id": 26,
+      "name_ar": " شبين الكوم",
+      "name_en": "Shibin El-Kom"
+    },
+    {
+      "id": 171,
+      "gov_id": 26,
+      "name_ar": " منوف",
+      "name_en": "Menouf"
+    },
+    {
+      "id": 172,
+      "gov_id": 26,
+      "name_ar": " بركة السبع",
+      "name_en": "Birket El Sabea"
+    },
+    {
+      "id": 173,
+      "gov_id": 26,
+      "name_ar": " مدينة السادات",
+      "name_en": "Sadat City"
+    },
+    {
+      "id": 174,
+      "gov_id": 26,
+      "name_ar": " قويسنا",
+      "name_en": "Quesna"
+    },
+    {
+      "id": 175,
+      "gov_id": 27,
+      "name_ar": " مركز المنيا",
+      "name_en": "El Minya City"
+    }
+  ]
+}

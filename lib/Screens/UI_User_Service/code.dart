@@ -1,0 +1,1 @@
+// SELECT cart.*,item.* FROM cart INNER JOIN item ON item.itemid= cart.itemid WHERE userid= ?
